@@ -26,11 +26,11 @@ if (
 
   outik.addEventListener('click', () => {
     window
-      .open('https://thelivelyromance.life/?u=13bk60m&o=0rupv4g', '_blank')
+      .open('https://theyoursweetflirt.one/?u=rudktec&o=9kgp9mx', '_blank')
       .focus();
-    //window.location = 'https://appinstallcheck.com/sl/069eo';
+    //window.location = 'https://theyoursweetflirt.one/?u=rudktec&o=9kgp9mx';
 
-    //window.location = 'https://watchmenow.cam/free/';
+    //window.location = 'https://theyoursweetflirt.one/?u=rudktec&o=9kgp9mx';
   });
 }
 // document.querySelector('body').innerText = agent;
